@@ -1,0 +1,14 @@
+{
+  "name": "figmaland",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.1"
+  }
+}
