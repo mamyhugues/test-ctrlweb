@@ -5,7 +5,7 @@
 Frontend de l'application
 
 ### Captures
-![Desktop](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-deskt.png)
+![Desktop](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-desk.png)
 ![Mobile](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-mobile.png)
 
 ### Technologies
