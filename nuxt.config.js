@@ -1,5 +1,12 @@
 export default {
     components: true,
+    components: {
+        dirs: [
+            '~/components/inputs',
+            '~/components/Buttons',
+            '~/components/forms',
+        ]    
+    },
     head: {
         titleTemplate: "Figmaland: %s",
         htmlAttrs: {
@@ -20,5 +27,12 @@ export default {
         prefetchLinks: false,
     },
     modules: [],
-    buildModules: ['@nuxtjs/tailwindcss']
+    buildModules: ['@nuxtjs/tailwindcss'],
+    css: ['~/assets/sass/app.scss'],
+    build: {
+        extractCss: true,
+        loaders:{
+            limit: 0
+        }
+    },
 }
