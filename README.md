@@ -2,8 +2,8 @@
 
 Clone the repository
 
-    git clone https://github.com/mamyhugues/test-ctrlweb .git
 
+    git clone https://github.com/mamyhugues/test-ctrlweb.git
 
 Switch to the frontend folder next
 
