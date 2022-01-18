@@ -5,29 +5,13 @@
 Frontend de l'application
 
 ### Captures
+Desktop
 ![Desktop](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-desk.png)
+
+
+Mobile
 ![Mobile](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-mobile.png)
 
 ### Technologies
 Framework vuejs: NuxtJs
 Tailwinds
-
-
-##Installation
-
-Clone the repository
-
-    git clone https://github.com/mamyhugues/test-ctrlweb.git
-
-
-Switch to the frontend folder next
-
-    cd ../frontend/
-
-Install all the dependencies using npm
-
-    npm install
-
-serve with hot reload at localhost:3000
-
-    yarn dev
