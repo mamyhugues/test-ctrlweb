@@ -1,9 +1,24 @@
-## Installation
+## Test Hugues
+
+### Information générale
+
+Frontend de l'application
+
+### Captures
+![Desktop](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-deskt.png)
+![Mobile](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-mobile.png)
+
+### Technologies
+Framework vuejs: NuxtJs
+Tailwinds
+
+
+##Installation
 
 Clone the repository
 
-
     git clone https://github.com/mamyhugues/test-ctrlweb.git
+
 
 Switch to the frontend folder next
 
