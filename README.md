@@ -5,8 +5,8 @@
 Frontend de l'application
 
 ### Captures
-![Desktop](https://github.com/mamyhugues/test-ctrlweb/static/images/screenshot-desktop.png)
-![Mobile](https://github.com/mamyhugues/test-ctrlweb/static/images/screenshot-mobile.png)
+![Desktop](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-deskt.png)
+![Mobile](https://github.com/mamyhugues/test-ctrlweb/blob/master/static/images/screenshot-mobile.png)
 
 ### Technologies
 Framework vuejs: NuxtJs
